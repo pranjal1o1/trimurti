@@ -79,11 +79,31 @@ Android app ─Bearer JWT───┤──► FastAPI /api/v1 (33 routers · 23
 
 ## Screenshots
 
-*(Add screenshots of the web console — dashboard, investigation workspace, graph view, agent chat — and the Android field app's key screens here before publishing.)*
-
-| Web Console | Android Field App |
+| | |
 |---|---|
-| _screenshot placeholder_ | _screenshot placeholder_ |
+| **Identity Authentication** | **Command Center** |
+| ![Login](screenshots/01-login.png) | ![Command Center](screenshots/02-command-center.png) |
+| **Inbox / Triage** | **Investigations Registry** |
+| ![Inbox](screenshots/03-inbox.png) | ![Investigations Registry](screenshots/04-investigations-registry.png) |
+| **Tactical Assignments** | **Agent Command** |
+| ![Tactical Assignments](screenshots/05-tactical-assignments.png) | ![Agent Command](screenshots/06-agent-command.png) |
+| **Document Extraction** | **Entity Dossiers** |
+| ![Document Extraction](screenshots/07-document-extraction.png) | ![Entity Dossiers](screenshots/08-entity-dossiers.png) |
+| **Graph Analyst (Network Topology)** | **Audit Ledger** |
+| ![Graph Analyst](screenshots/09-graph-analyst.png) | ![Audit Ledger](screenshots/11-audit-ledger.png) |
+| **Upload Security** | **Personnel & RBAC** |
+| ![Upload Security](screenshots/12-upload-security.png) | ![Personnel & RBAC](screenshots/13-personnel-rbac.png) |
+| **Workflow Masters** | **Agent Registry (745-agent fleet)** |
+| ![Workflow Masters](screenshots/14-workflow-masters.png) | ![Agent Registry](screenshots/15-agent-registry.png) |
+| **Skill Studio** | **Visual Swarm Ontology** |
+| ![Skill Studio](screenshots/16-skill-studio.png) | ![Visual Swarm Ontology](screenshots/17-visual-swarm-ontology.png) |
+
+<details>
+<summary>Visual Swarm Ontology — node detail</summary>
+
+![Visual Swarm Ontology detail](screenshots/18-visual-swarm-ontology-detail.png)
+
+</details>
 
 ---
 
