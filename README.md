@@ -109,7 +109,11 @@ Android app ─Bearer JWT───┤──► FastAPI /api/v1 (33 routers · 23
 
 ## Demo Video
 
-*(Add a short walkthrough video link here — e.g. a Loom/YouTube link showing: upload a document → watch it get extracted → search evidence → ask the agent a question → view the graph.)*
+https://github.com/pranjal1o1/trimurti/raw/main/demo/demo-walkthrough.mp4
+
+<video src="demo/demo-walkthrough.mp4" controls width="720"></video>
+
+*(If the player above doesn't render, use the link — GitHub will stream/download the file directly.)*
 
 ---
 
